@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Anees Ur Rehman 👋
 
-<!--
-**Anees31-AI/Anees31-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineer | AI Enthusiast**
 
-Here are some ideas to get you started:
+---
+🔧 **About Me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about building AI solutions.
+- Exploring NLP, Computer Vision, and MLOps.
+
+---
+
+💡 **Tech Stack:**
+
+- Languages: Python
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn
+- Database: SQLite,SQL
+- Tools: APIs, Git
+
+---
+
+💌 **Let's connect!**
+
+- LinkedIn: [Your LinkedIn](#)
+
