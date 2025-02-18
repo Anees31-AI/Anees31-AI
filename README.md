@@ -21,5 +21,5 @@
 
 💌 **Let's connect!**
 
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: www.linkedin.com/in/anees-ur-rehman-4269552b3
 
